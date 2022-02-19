@@ -1,0 +1,17 @@
+.btn {
+    padding: 12px 15px;
+    border-radius: 12px;
+    border: none;
+    font-weight: 500;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.btn.btn-primary{
+    background: rgb(1, 167, 233);
+    color:#fff;
+}
+
+.btn:hover{
+    opacity: .7;
+}
